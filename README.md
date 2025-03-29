@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Buchwitz Alexis Javier
+- Vivo en Hurlingham
 
 
 ### Otra Información
